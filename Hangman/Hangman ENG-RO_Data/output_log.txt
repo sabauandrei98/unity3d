@@ -7,17 +7,170 @@ Direct3D:
     VRAM:     2017 MB
     Driver:   22.21.13.8541
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\sabau\Desktop\Hangman ENG-RO_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\sabau\Desktop\Hangman ENG-RO_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\sabau\Desktop\Hangman ENG-RO_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\sabau\Desktop\Hangman ENG-RO_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\sabau\Desktop\Hangman ENG-RO_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\sabau\Desktop\Hangman ENG-RO_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\sabau\Desktop\Hangman ENG-RO_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\sabau\Desktop\Hangman ENG-RO_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.024 seconds
-Platform assembly: C:\Users\sabau\Desktop\Hangman ENG-RO_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\sabau\Desktop\Hangman ENG-RO_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\Hangman\Hangman ENG-RO_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sabau\Desktop\Informatics\unity3d\Hangman\Hangman ENG-RO_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\Hangman\Hangman ENG-RO_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sabau\Desktop\Informatics\unity3d\Hangman\Hangman ENG-RO_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\Hangman\Hangman ENG-RO_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\sabau\Desktop\Informatics\unity3d\Hangman\Hangman ENG-RO_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\Hangman\Hangman ENG-RO_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\sabau\Desktop\Informatics\unity3d\Hangman\Hangman ENG-RO_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\Hangman\Hangman ENG-RO_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\Hangman\Hangman ENG-RO_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.717661 ms
+Limba Romana2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Limba Engleza1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.361062 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 541.
+Total: 0.382172 ms (FindLiveObjects: 0.040149 ms CreateObjectMapping: 0.013886 ms MarkObjects: 0.294930 ms  DeleteObjects: 0.032602 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.463678 ms
+
+Unloading 100 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.322401 ms (FindLiveObjects: 0.033206 ms CreateObjectMapping: 0.024149 ms MarkObjects: 0.171162 ms  DeleteObjects: 0.093580 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.381568 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.275912 ms (FindLiveObjects: 0.016301 ms CreateObjectMapping: 0.012980 ms MarkObjects: 0.233650 ms  DeleteObjects: 0.012678 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.537335 ms
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.207387 ms (FindLiveObjects: 0.013584 ms CreateObjectMapping: 0.012678 ms MarkObjects: 0.138560 ms  DeleteObjects: 0.042564 ms)
+
+Limba Engleza1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.345645 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.360739 ms (FindLiveObjects: 0.032602 ms CreateObjectMapping: 0.014188 ms MarkObjects: 0.292213 ms  DeleteObjects: 0.020829 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.567824 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.361644 ms (FindLiveObjects: 0.051016 ms CreateObjectMapping: 0.013584 ms MarkObjects: 0.293119 ms  DeleteObjects: 0.003320 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.521034 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.366172 ms (FindLiveObjects: 0.030791 ms CreateObjectMapping: 0.013584 ms MarkObjects: 0.317571 ms  DeleteObjects: 0.003622 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.521034 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.342928 ms (FindLiveObjects: 0.031092 ms CreateObjectMapping: 0.013886 ms MarkObjects: 0.294025 ms  DeleteObjects: 0.003320 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.524958 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.450999 ms (FindLiveObjects: 0.040451 ms CreateObjectMapping: 0.014791 ms MarkObjects: 0.391228 ms  DeleteObjects: 0.004226 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.520430 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.359833 ms (FindLiveObjects: 0.052827 ms CreateObjectMapping: 0.013584 ms MarkObjects: 0.289496 ms  DeleteObjects: 0.003320 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.603445 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.324514 ms (FindLiveObjects: 0.041960 ms CreateObjectMapping: 0.013282 ms MarkObjects: 0.266252 ms  DeleteObjects: 0.002716 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.511072 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.353796 ms (FindLiveObjects: 0.032602 ms CreateObjectMapping: 0.023546 ms MarkObjects: 0.293119 ms  DeleteObjects: 0.004226 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.557560 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.359229 ms (FindLiveObjects: 0.031092 ms CreateObjectMapping: 0.013584 ms MarkObjects: 0.310326 ms  DeleteObjects: 0.003622 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.524354 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.383077 ms (FindLiveObjects: 0.051318 ms CreateObjectMapping: 0.013886 ms MarkObjects: 0.314250 ms  DeleteObjects: 0.003320 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.572352 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.287081 ms (FindLiveObjects: 0.038036 ms CreateObjectMapping: 0.013282 ms MarkObjects: 0.232442 ms  DeleteObjects: 0.003018 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.524656 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.387605 ms (FindLiveObjects: 0.054035 ms CreateObjectMapping: 0.023848 ms MarkObjects: 0.305194 ms  DeleteObjects: 0.003924 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.518317 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.390322 ms (FindLiveObjects: 0.029583 ms CreateObjectMapping: 0.024753 ms MarkObjects: 0.331457 ms  DeleteObjects: 0.003622 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.530090 ms
+
+Unloading 100 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.281950 ms (FindLiveObjects: 0.023848 ms CreateObjectMapping: 0.014188 ms MarkObjects: 0.147918 ms  DeleteObjects: 0.095392 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.298251 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.233046 ms (FindLiveObjects: 0.023848 ms CreateObjectMapping: 0.012980 ms MarkObjects: 0.168747 ms  DeleteObjects: 0.026564 ms)
+
+Limba Engleza1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.409642 ms
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.246328 ms (FindLiveObjects: 0.023546 ms CreateObjectMapping: 0.012980 ms MarkObjects: 0.137956 ms  DeleteObjects: 0.071242 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.295534 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.239989 ms (FindLiveObjects: 0.025961 ms CreateObjectMapping: 0.012678 ms MarkObjects: 0.178709 ms  DeleteObjects: 0.022036 ms)
+
+Limba Engleza1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2d68 -> priority: 1 
+  Thread -> id: 3174 -> priority: 1 
+  Thread -> id: 238 -> priority: 1 
+  Thread -> id: 38c -> priority: 1 

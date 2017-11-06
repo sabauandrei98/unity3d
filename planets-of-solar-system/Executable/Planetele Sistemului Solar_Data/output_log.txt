@@ -7,74 +7,58 @@ Direct3D:
     VRAM:     2017 MB
     Driver:   20.19.15.4531
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\sabau\Desktop\Andrei\Atestat\Prezentare\Planetele Sistemului Solar_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\sabau\Desktop\Andrei\Atestat\Prezentare\Planetele Sistemului Solar_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\sabau\Desktop\Andrei\Atestat\Prezentare\Planetele Sistemului Solar_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\sabau\Desktop\Andrei\Atestat\Prezentare\Planetele Sistemului Solar_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\sabau\Desktop\Andrei\Atestat\Prezentare\Planetele Sistemului Solar_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\sabau\Desktop\Andrei\Atestat\Prezentare\Planetele Sistemului Solar_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\sabau\Desktop\Andrei\Atestat\Prezentare\Planetele Sistemului Solar_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\sabau\Desktop\Andrei\Atestat\Prezentare\Planetele Sistemului Solar_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\sabau\Desktop\Andrei\Atestat\Prezentare\Planetele Sistemului Solar_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Users\sabau\Desktop\Andrei\Atestat\Prezentare\Planetele Sistemului Solar_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.023 seconds
-Platform assembly: C:\Users\sabau\Desktop\Andrei\Atestat\Prezentare\Planetele Sistemului Solar_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\sabau\Desktop\Andrei\Atestat\Prezentare\Planetele Sistemului Solar_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\planets-of-solar-system\Executable\Planetele Sistemului Solar_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sabau\Desktop\Informatics\unity3d\planets-of-solar-system\Executable\Planetele Sistemului Solar_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\planets-of-solar-system\Executable\Planetele Sistemului Solar_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sabau\Desktop\Informatics\unity3d\planets-of-solar-system\Executable\Planetele Sistemului Solar_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\planets-of-solar-system\Executable\Planetele Sistemului Solar_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\sabau\Desktop\Informatics\unity3d\planets-of-solar-system\Executable\Planetele Sistemului Solar_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\planets-of-solar-system\Executable\Planetele Sistemului Solar_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\sabau\Desktop\Informatics\unity3d\planets-of-solar-system\Executable\Planetele Sistemului Solar_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\planets-of-solar-system\Executable\Planetele Sistemului Solar_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\sabau\Desktop\Informatics\unity3d\planets-of-solar-system\Executable\Planetele Sistemului Solar_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.039 seconds
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\planets-of-solar-system\Executable\Planetele Sistemului Solar_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\planets-of-solar-system\Executable\Planetele Sistemului Solar_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.985014 ms
+UnloadTime: 0.996787 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1910 -> priority: 1 
-  Thread -> id: 18c4 -> priority: 1 
+  Thread -> id: 38f8 -> priority: 1 
+  Thread -> id: 35c0 -> priority: 1 
 Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.174008 ms
+UnloadTime: 4.597839 ms
 
 Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 306.
-Total: 0.315759 ms (FindLiveObjects: 0.025357 ms CreateObjectMapping: 0.011773 ms MarkObjects: 0.163917 ms  DeleteObjects: 0.114108 ms)
+Total: 0.267158 ms (FindLiveObjects: 0.034715 ms CreateObjectMapping: 0.011471 ms MarkObjects: 0.113806 ms  DeleteObjects: 0.106561 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.318778 ms
+UnloadTime: 0.256290 ms
 
 Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 440.
-Total: 0.210707 ms (FindLiveObjects: 0.033809 ms CreateObjectMapping: 0.011773 ms MarkObjects: 0.150635 ms  DeleteObjects: 0.014489 ms)
+Total: 0.206783 ms (FindLiveObjects: 0.032602 ms CreateObjectMapping: 0.011471 ms MarkObjects: 0.148823 ms  DeleteObjects: 0.013886 ms)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.374323 ms
+UnloadTime: 0.368285 ms
 
 Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 306.
-Total: 0.300968 ms (FindLiveObjects: 0.023244 ms CreateObjectMapping: 0.012074 ms MarkObjects: 0.150936 ms  DeleteObjects: 0.114108 ms)
+Total: 0.302779 ms (FindLiveObjects: 0.023848 ms CreateObjectMapping: 0.011471 ms MarkObjects: 0.152144 ms  DeleteObjects: 0.115013 ms)
 
 The referenced script on this Behaviour (Game Object 'InformatiiPlanete') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.594087 ms
+UnloadTime: 0.553636 ms
 
 Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 546.
-Total: 0.348966 ms (FindLiveObjects: 0.040149 ms CreateObjectMapping: 0.013886 ms MarkObjects: 0.251762 ms  DeleteObjects: 0.041960 ms)
+Total: 0.353796 ms (FindLiveObjects: 0.039243 ms CreateObjectMapping: 0.012678 ms MarkObjects: 0.257800 ms  DeleteObjects: 0.043167 ms)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.473941 ms
+UnloadTime: 0.488733 ms
 
 Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 466.
-Total: 0.312741 ms (FindLiveObjects: 0.031998 ms CreateObjectMapping: 0.012376 ms MarkObjects: 0.206783 ms  DeleteObjects: 0.060978 ms)
-
-The referenced script on this Behaviour (Game Object 'InformatiiPlanete') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.370097 ms
-
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 546.
-Total: 0.348664 ms (FindLiveObjects: 0.040451 ms CreateObjectMapping: 0.012678 ms MarkObjects: 0.248140 ms  DeleteObjects: 0.047394 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.443150 ms
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 440.
-Total: 0.264743 ms (FindLiveObjects: 0.030489 ms CreateObjectMapping: 0.012376 ms MarkObjects: 0.202859 ms  DeleteObjects: 0.018414 ms)
+Total: 0.415982 ms (FindLiveObjects: 0.051620 ms CreateObjectMapping: 0.012980 ms MarkObjects: 0.288591 ms  DeleteObjects: 0.062185 ms)
 

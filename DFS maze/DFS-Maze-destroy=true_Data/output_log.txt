@@ -7,24 +7,30 @@ Direct3D:
     VRAM:     2017 MB
     Driver:   22.21.13.8541
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\sabau\Desktop\DFS-Maze-destroy=true_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\sabau\Desktop\DFS-Maze-destroy=true_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\sabau\Desktop\DFS-Maze-destroy=true_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\sabau\Desktop\DFS-Maze-destroy=true_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\sabau\Desktop\DFS-Maze-destroy=true_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\sabau\Desktop\DFS-Maze-destroy=true_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\sabau\Desktop\DFS-Maze-destroy=true_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\sabau\Desktop\DFS-Maze-destroy=true_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.020 seconds
-Platform assembly: C:\Users\sabau\Desktop\DFS-Maze-destroy=true_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\sabau\Desktop\DFS-Maze-destroy=true_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\DFS maze\DFS-Maze-destroy=true_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sabau\Desktop\Informatics\unity3d\DFS maze\DFS-Maze-destroy=true_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\DFS maze\DFS-Maze-destroy=true_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sabau\Desktop\Informatics\unity3d\DFS maze\DFS-Maze-destroy=true_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\DFS maze\DFS-Maze-destroy=true_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\sabau\Desktop\Informatics\unity3d\DFS maze\DFS-Maze-destroy=true_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\DFS maze\DFS-Maze-destroy=true_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\sabau\Desktop\Informatics\unity3d\DFS maze\DFS-Maze-destroy=true_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\DFS maze\DFS-Maze-destroy=true_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\sabau\Desktop\Informatics\unity3d\DFS maze\DFS-Maze-destroy=true_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.142290 ms
+UnloadTime: 1.834788 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 37c0 -> priority: 1 
-  Thread -> id: 3fa8 -> priority: 1 
-  Thread -> id: 3d8 -> priority: 1 
-  Thread -> id: 1ecc -> priority: 1 
+  Thread -> id: 1ad0 -> priority: 1 
+  Thread -> id: 3fd0 -> priority: 1 
+  Thread -> id: 2bd8 -> priority: 1 
+  Thread -> id: 2968 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.644156 ms
+
+Unloading 640 unused Assets to reduce memory usage. Loaded Objects now: 254.
+Total: 1.740604 ms (FindLiveObjects: 0.048299 ms CreateObjectMapping: 0.028074 ms MarkObjects: 0.061884 ms  DeleteObjects: 1.601138 ms)
+
