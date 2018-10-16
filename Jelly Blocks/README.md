@@ -20,7 +20,5 @@ The AI thinking is build on a list of particular cases and a popular algorithm, 
 
 <h2>:camera: Screens</h2>
 
-![alt text](https://github.com/sabauandrei98/unity3d/blob/master/Jelly%20Blocks/Screens/1.png)
-![alt text](https://github.com/sabauandrei98/unity3d/blob/master/Jelly%20Blocks/Screens/2.png)
-![alt text](https://github.com/sabauandrei98/unity3d/blob/master/Jelly%20Blocks/Screens/3.png)
+<img src="https://github.com/sabauandrei98/unity3d/blob/master/Jelly%20Blocks/Screens/1.png" height="500" width="275"><img src="https://github.com/sabauandrei98/unity3d/blob/master/Jelly%20Blocks/Screens/2.png" height="500" width="275"><img src="https://github.com/sabauandrei98/unity3d/blob/master/Jelly%20Blocks/Screens/3.png" height="500" width="275">
 
