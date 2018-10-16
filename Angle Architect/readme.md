@@ -6,8 +6,5 @@ The player has 50 points of life meaning that if the angle to draw is 150 and th
 
 <h2>:camera: Screens</h2>
 
-<img src="https://github.com/sabauandrei98/unity3d/blob/master/Angle%20Architect/Screens/1.png" height="685" width="427">
-<img src="https://github.com/sabauandrei98/unity3d/blob/master/Angle%20Architect/Screens/2.png" height="685" width="427">
-<img src="https://github.com/sabauandrei98/unity3d/blob/master/Angle%20Architect/Screens/3.png" height="685" width="427">
-<img src="https://github.com/sabauandrei98/unity3d/blob/master/Angle%20Architect/Screens/4.png" height="685" width="427">
+<img src="https://github.com/sabauandrei98/unity3d/blob/master/Angle%20Architect/Screens/1.png" height="625" width="375"> <img src="https://github.com/sabauandrei98/unity3d/blob/master/Angle%20Architect/Screens/2.png" height="625" width="375"> <img src="https://github.com/sabauandrei98/unity3d/blob/master/Angle%20Architect/Screens/3.png" height="625" width="375"> <img src="https://github.com/sabauandrei98/unity3d/blob/master/Angle%20Architect/Screens/4.png" height="625" width="375">
 
