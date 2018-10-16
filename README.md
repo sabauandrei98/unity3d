@@ -4,6 +4,9 @@ Unity is a cross-platform game engine developed by Unity Technologies, first ann
 As of 2018, the engine has been extended to support 27 platforms. The engine can be used to create both three-dimensional and two-dimensional games as well as simulations for its many platforms. 
 
 
+:pushpin:  This repository contains only photos and Android/Windows builds. For more information about the code write me an email
+
+:mailbox: sabau_andrei1998@yahoo.com
 
 <h2>:tiger2: Projects</h2>
 
@@ -21,8 +24,4 @@ As of 2018, the engine has been extended to support 27 platforms. The engine can
 
 
 
-<h2>:pushpin:</h2>
 
-
-This repository contains only photos and Android/Windows builds. For more information about the code write me an email
-:mailbox:: sabau_andrei1998@yahoo.com
