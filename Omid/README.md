@@ -9,7 +9,10 @@ The player controls the main character, attempting to fly between columns of pip
 The more pipes player avoids, the more points are earned. 
 These points come under leaves form and allows player to buy skins, changing the main character color and effects.
 
+[![Watch the video](https://github.com/sabauandrei98/unity3d/blob/master/Omid/Screens/facebookBanner.png)](https://www.youtube.com/watch?time_continue=2&v=TaGFiH1qBNo)
 
-![alt text](https://github.com/sabauandrei98/unity3d/blob/master/Omid/Screens/mainmenu.png)
-![alt text](https://github.com/sabauandrei98/unity3d/blob/master/Omid/Screens/customidze.png)
 ![alt text](https://media.giphy.com/media/1lCG7OFjWZauOqxs0X/giphy.gif)
+![alt text](https://github.com/sabauandrei98/unity3d/blob/master/Omid/Screens/customidze.png)
+![alt text](https://github.com/sabauandrei98/unity3d/blob/master/Omid/Screens/drunkmode.png)
+![alt text](https://github.com/sabauandrei98/unity3d/blob/master/Omid/Screens/hard.png)
+![alt text](https://github.com/sabauandrei98/unity3d/blob/master/Omid/Screens/skins.png)
