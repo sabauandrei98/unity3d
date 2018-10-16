@@ -9,11 +9,13 @@ The more pipes player avoids, the more points are earned.
 These points come under leaves form and allows player to buy skins, changing the main character color and effects.
 
 
-<h2>:movie_camera::movie_camera::movie_camera:Click on the image bellow to see the video.</h2>
+<h2>:movie_camera: Click on the image bellow to see the video.</h2>
 
 [![Watch the video](https://github.com/sabauandrei98/unity3d/blob/master/Omid/Screens/facebookBanner.png)](https://www.youtube.com/watch?time_continue=2&v=TaGFiH1qBNo)
 
-![alt text](https://media.giphy.com/media/1lCG7OFjWZauOqxs0X/giphy.gif)
+<h2>:camera: Screens</h2>
+
+![alt text](https://github.com/sabauandrei98/unity3d/blob/master/Omid/Screens/mainmenu.png)
 ![alt text](https://github.com/sabauandrei98/unity3d/blob/master/Omid/Screens/customidze.png)
 ![alt text](https://github.com/sabauandrei98/unity3d/blob/master/Omid/Screens/drunkmode.png)
 ![alt text](https://github.com/sabauandrei98/unity3d/blob/master/Omid/Screens/hard.png)
