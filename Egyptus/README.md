@@ -2,7 +2,7 @@
 
 Egyptus is a simple but not so easy game. The game is played in turns. Each turn the player receives a combination of arrows. 
 The player has to say if the model is correct by selecting the green gem for "YES" and red gem for "NO".
-To make things even harder, the arrow are moving, making it trickier to observe the pattern.
+To make things even harder, the arrows are moving, making it trickier to observe the pattern.
 
 
 <h2>:camera: Screens</h2>
