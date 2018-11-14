@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 9172b247dbdf02e4b8a821a303e1b17c
+timeCreated: 1517333532
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 100
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gubia
+  fontNames:
+  - Gubia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8312e10197695d249be073ab687a55d6, type: 3}
+  - {fileID: 12800000, guid: 55d902b893231174a86bc47a230150c7, type: 3}
+  - {fileID: 12800000, guid: 8d21c93999d485340a8183af73957fc9, type: 3}
+  - {fileID: 12800000, guid: 3899746fa39889548b2f73b1000c9c39, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

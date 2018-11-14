@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d2319552784297e42b5150958012ec2e
+timeCreated: 1499081677
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 350
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aroly
+  fontNames:
+  - Aroly
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

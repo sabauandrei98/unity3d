@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SpriteGlow\myShader.shader">
+    <Files>
+      <File FileName="Assets\Game\Scripts\Game.cs" Line="58" Column="3" />
+      <File FileName="Assets\Game\Scripts\Generate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\UI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\DoNotDestroyOnLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\SpriteGlow\myShader.shader" Line="159" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

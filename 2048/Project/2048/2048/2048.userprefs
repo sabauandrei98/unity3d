@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Minecraft 1.8 Server(64bits)\plugins\PermissionsEx\permissions.yml">
+    <Files>
+      <File FileName="Assets\Scripts\Mouse.cs" Line="1" Column="1" />
+      <File FileName="Assets\OtherScripts\FundalMusic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Models\Snow\Spawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Phone.cs" Line="1" Column="1" />
+      <File FileName="Assets\Models\Snow\Destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GoUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\OtherScripts\Camera_Aspect.cs" Line="1" Column="1" />
+      <File FileName="Assets\OtherScripts\QuitApplication.cs" Line="1" Column="1" />
+      <File FileName="Assets\OtherScripts\ScreenTimeOut.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CloseButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Information.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\newGameButton.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\minecraft\Minecraft 1.8 Server(64bits)\plugins\PermissionsEx\permissions.yml" Line="1" Column="1" />
+      <File FileName="..\..\..\Minecraft 1.8 Server(64bits)\plugins\PermissionsEx\permissions.yml" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
